@@ -1,4 +1,5 @@
-{
+{	
+	"name": "cwl168/psrDemo",
 	"autoload": {
 		"files":["app/user.php"],
 		"classmap":["app"],
