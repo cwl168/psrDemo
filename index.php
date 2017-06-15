@@ -1,4 +1,7 @@
 <?php
+/**
+ composer packagist
+*/
 require_once 'vendor/autoload.php';
 $user = new \App\User();
 $user1 = new \Bpp\User();
