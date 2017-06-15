@@ -1,6 +1,6 @@
 <?php
 /**
- composer packagist example
+ composer packagist examples
 */
 require_once 'vendor/autoload.php';
 $user = new \App\User();
